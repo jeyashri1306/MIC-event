@@ -1,1 +1,1 @@
-so basically i did repo for an event in Microsoft innovation club the first zip which ends with (3) is an app recreation from figma and (4) is like a proper app creation where i developed an mental health application
+so basically i did a repo for an event in Microsoft Innovation Club the zip contains an app recreation from Figma given by the club
